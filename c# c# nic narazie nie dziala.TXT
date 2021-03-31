@@ -1,1 +1,1 @@
-c#,c#
+Serwer - c#, klient - c#
